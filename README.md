@@ -16,7 +16,7 @@ There are many reason to choose a proper a database management system-
 7. Databases are fault-tolerant.
 8. Databases can handle very large data sets.
 9. Databases are concurrent; multiple users can use them at the same time without corrupting the data.
-10. Databases scale well.
+10. Databases scale well. <br>
 [Ref](https://softwareengineering.stackexchange.com/questions/190482/why-use-a-database-instead-of-just-saving-your-data-to-disk)
 
 Q- How well versed are you on the Unix command line? <br>
